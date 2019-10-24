@@ -1,0 +1,5 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mShellSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- testing *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  assert("hello".startsWith("H"))[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m         |       |          |[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m         "hello" false      "H" (tests.scala:5)[0m[0m

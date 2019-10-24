@@ -1,0 +1,23 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/target/scala-2.12/chapter11_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	os/nebula/Utilities$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/target/scala-2.12/classes/os/nebula/Utilities$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	os/nebula/nebula.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/target/scala-2.12/classes/os/nebula/nebula.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	os/nebula/nebula$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/target/scala-2.12/classes/os/nebula/nebula$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	os/nebula/nebula$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/target/scala-2.12/classes/os/nebula/nebula$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	os/nebula/Utilities$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/target/scala-2.12/classes/os/nebula/Utilities$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	os/nebula/TextFile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/target/scala-2.12/classes/os/nebula/TextFile$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	os/nebula/Utilities.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/target/scala-2.12/classes/os/nebula/Utilities.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	os/nebula/TextFile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/target/scala-2.12/classes/os/nebula/TextFile.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	os/nebula[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/target/scala-2.12/classes/os/nebula[0m
+[0m[[0m[0mdebug[0m] [0m[0m	os[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/target/scala-2.12/classes/os[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

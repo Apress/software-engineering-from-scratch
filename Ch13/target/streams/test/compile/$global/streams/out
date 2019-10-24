@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter13/Chapter13-code/src/test/scala/utilities.spec.scala:44:37: not enough arguments for method search: (curdir: String, keyword: String, fileList: Option[Array[String]])String.[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter fileList.[0m
+[0m[[0m[31merror[0m] [0m[0m                    Utilities.search("../../root", "abc.txt")[0m
+[0m[[0m[31merror[0m] [0m[0m                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

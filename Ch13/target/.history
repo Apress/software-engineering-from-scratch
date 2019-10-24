@@ -1,0 +1,14 @@
+test
+build
+compile
+test
+compile
+test
+test --nocapture
+clear
+test
+run
+rn
+run
+shutdown
+run

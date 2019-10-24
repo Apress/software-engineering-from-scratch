@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/home/jasonleehodges/Documents/Software Engineering From Scratch/Chapter11/src/test/scala/utilities.spec.scala:18:33: missing argument list for method assertResult in trait Assertions[0m
+[0m[[0m[31merror[0m] [0m[0mUnapplied methods are only converted to functions when a function type is expected.[0m
+[0m[[0m[31merror[0m] [0m[0mYou can make this conversion explicit by writing `assertResult _` or `assertResult(_,_)(_)(_,_)` instead of `assertResult`.[0m
+[0m[[0m[31merror[0m] [0m[0m                    assertResult(4, 2 + 2)[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

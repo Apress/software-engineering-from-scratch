@@ -1,0 +1,24 @@
+compile
+set ThisBuild / scalaVersion := "2.12.7"
+session save
+exit
+set ThisBuild / scalaVersion := "2.12.7"
+session save
+compile
+~compile
+build
+~testQuick
+test
+reload
+test
+~testQuick
+~compile
+compile
+~compile
+test
+compile
+quickTest
+testQuick
+test
+compile
+run

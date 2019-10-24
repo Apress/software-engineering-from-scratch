@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mUtilitiesSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mWhen calling the add command[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  and passing 2 + 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should equal 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mwhen sorting a list of files[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return a sorted list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  if the list is empty or lenth 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should return the listt[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - should return the empty list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mwhen searching a list of files[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return the search term if it exists[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should return 'No match found.' if the search term is bad[0m[0m
